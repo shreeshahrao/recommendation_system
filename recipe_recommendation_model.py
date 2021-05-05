@@ -8,12 +8,11 @@ Original file is located at
 """
 
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import pandas as pd
-import seaborn as sns
-import os 
+#import seaborn as sns
+#import os 
 import re
-
 import csv
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
